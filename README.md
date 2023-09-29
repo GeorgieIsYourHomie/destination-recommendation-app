@@ -62,16 +62,16 @@ To run this project locally, follow these steps:
 
 5. Open your web browser and go to http://localhost:3000 to use the application.
 
-Usage
+## Usage
 
    - Input your location preferences to find places of interest.
    - Explore different types of tourist attractions.
    - Click on map markers to view more details about each place.
 
-API Usage
+## API Usage
 
 This project uses the OpenTripMap API for retrieving tourist attraction data. Please review the Open Data Commons Open Database License (ODbL) for information about licensing and terms of use.
 
-License
+## License
 
 This project is licensed under the Open Data Commons Open Database License (ODbL). You are free to use and modify the project as long as you adhere to the terms of this license. https://opendatacommons.org/licenses/odbl/1-0/
