@@ -64,9 +64,9 @@ To run this project locally, follow these steps:
 
 Usage
 
-    Input your location preferences to find places of interest.
-    Explore different types of tourist attractions.
-    Click on map markers to view more details about each place.
+   - Input your location preferences to find places of interest.
+   - Explore different types of tourist attractions.
+   - Click on map markers to view more details about each place.
 
 API Usage
 
