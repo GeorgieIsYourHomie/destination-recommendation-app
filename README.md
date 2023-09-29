@@ -42,25 +42,25 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/travel-app.git
 
-    Navigate to the project directory:
+2. Navigate to the project directory:
 
-    bash
+    ```bash
 
-cd travel-app
+   cd travel-app
 
-Install project dependencies:
+3. Install project dependencies:
 
-bash
+   ```bash
 
-npm install
+   npm install
 
-Start the development server:
+4. Start the development server:
 
-bash
+   ```bash
 
     npm start
 
-    Open your web browser and go to http://localhost:3000 to use the application.
+5. Open your web browser and go to http://localhost:3000 to use the application.
 
 Usage
 
