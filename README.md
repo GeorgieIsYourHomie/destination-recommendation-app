@@ -1,6 +1,6 @@
 # Travel App
 
-Welcome to the Travel App, a small web application that allows users to explore tourist attractions and places of interest around the world.
+Welcome to the Travel App, a TypeScript and React-based web application that allows users to explore tourist attractions and places of interest around the world, personalized to their preferences.
 
 ## Table of Contents
 
@@ -15,23 +15,22 @@ Welcome to the Travel App, a small web application that allows users to explore 
 
 ## Description
 
-The Travel App is a TypeScript and React-based web application that leverages the OpenTripMap API to provide users with information about tourist attractions and facilities worldwide. Users can input location details, explore various types of places, and view them on an interactive map.
+The Travel App is a TypeScript and React-based web application that empowers users to input their location and preferences, enabling them to discover recommended tourist attractions and facilities worldwide. It integrates with the OpenTripMap API to fetch and showcase personalized travel recommendations.
 
 ## Features
 
-- Search and explore tourist attractions.
-- View places on an interactive map.
-- Customize map markers with additional information.
-- User-friendly interface for input and interaction.
-- Efficient data management and caching with React Query.
+- Input your location and preferences to find tailored attractions.
+- View recommended places on an interactive map.
+- Explore different types of tourist attractions.
+- Click on map markers to access detailed information about each place.
+- User-friendly interface with responsive design.
 
 ## Technologies Used
 
-- React
-- TypeScript
-- React Query for API data management
-- Leaflet and React-Leaflet for map display
-- Tailwind CSS for styling
+- React with TypeScript
+- React Query for efficient API data management and caching
+- Leaflet and React-Leaflet for interactive map display
+- Tailwind CSS for modern and responsive styling
 
 ## Getting Started
 
@@ -64,9 +63,9 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-- Input your location preferences to find places of interest.
+- Input your location and preferences to discover personalized travel recommendations.
 - Explore different types of tourist attractions.
-- Click on map markers to view more details about each place.
+- Click on map markers to access additional details about each place.
 
 ## API Usage
 
